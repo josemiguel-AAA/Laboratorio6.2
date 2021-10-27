@@ -45,8 +45,3 @@ La función **OR** funciona de manera similar a **AND** con la diferencia de que
 
 ## AND_NOT
 La función **AND_NOT** funciona de manera similar a **AND** con la diferencia de que solo se añaden elementos a la lista resultante cuando el índice de la lista del primer término avanza, es decir cuando el elemento de la primera lista sea menor al de la segunda, y ya no cuando sean iguales. Esto va a hacer que en la lista resultantes estén solo los documentos que contienen al primer término más no al segundo.
-
-## Prueba del programa
-Para probar la funcionalidad del programa se ejecutaron las consultas (Gandalf AND Frodo) AND NOT Gondor, Orthanc OR (Anillo AND NOT Nazgûl) y (Merry AND Hobbit) OR Gimli. Los resultados obtenidos fueron los siguientes:
-
-[[resultados.jpeg]]
