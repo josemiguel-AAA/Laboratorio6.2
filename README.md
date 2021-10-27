@@ -49,4 +49,4 @@ La función **AND_NOT** funciona de manera similar a **AND** con la diferencia d
 ## Prueba del programa
 Para probar la funcionalidad del programa se ejecutaron las consultas (Gandalf AND Frodo) AND NOT Gondor, Orthanc OR (Anillo AND NOT Nazgûl) y (Merry AND Hobbit) OR Gimli. Los resultados obtenidos fueron los siguientes:
 
-[imgs/resultados.jpeg]
+[[imgs/resultados.jpeg]]
